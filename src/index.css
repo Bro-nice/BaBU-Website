@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    background-color: #F9F6F0;
+    color: #484237;
+  }
+
+  ::selection {
+    background-color: #B69168;
+    color: #ffffff;
+  }
+}
+
+.font-serif-gelasio {
+  font-family: 'Gelasio', Georgia, serif;
+}
+
+.font-display {
+  font-family: 'Gelasio', Georgia, serif;
+}

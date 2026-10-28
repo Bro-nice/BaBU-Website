@@ -1,0 +1,6 @@
+{
+  "name": "DayScore AI",
+  "description": "An intelligent daily reflection and self-improvement coach evaluating your day holistically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
